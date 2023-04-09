@@ -54,7 +54,7 @@ Together, we can create a world that is rich in detail, depth, and imagination, 
   - **Decentralized Autonomous Casinos**
   - **Metaverses**
 
-# Cities
+# Places
   - **Trade Centers**
 
 # Concepts
