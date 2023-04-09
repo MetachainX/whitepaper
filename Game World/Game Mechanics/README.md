@@ -21,6 +21,8 @@ So if you are looking to get a better understanding of how the game works and ho
 - **Fighting**
 - **Crafting**
 - **Upgrades**
+- **Communication**
+- **Map**
 - **Building**
 - **Guilds**
 - **Progession**
