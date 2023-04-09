@@ -1,1 +1,5 @@
-# Intro
+The Galactic Federation is always seeking new members who are willing to contribute their resources and expertise to the greater good. The Federation provides protection, support, and opportunities for growth to its members, as well as access to cutting-edge technology and knowledge that can help push the boundaries of what's possible.
+
+But getting there won't be easy. You'll have to navigate treacherous asteroid fields, outwit cunning pirate gangs, and outfight rival factions in epic battles that could determine the fate of entire star systems. The quest for the Galactic Federation is not for the faint of heart, but for those who are bold enough to take the risk, the rewards are truly out of this world.
+
+As you gather resources and improve your spaceship, you'll have to make strategic decisions that can mean the difference between success and failure. Will you ally with other factions or strike out on your own? Will you focus on building up your infrastructure or taking the fight to your enemies? The choices you make will determine your fate in this universe of endless possibilities.
