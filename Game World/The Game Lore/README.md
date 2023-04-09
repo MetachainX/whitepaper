@@ -47,7 +47,7 @@ Together, we can create a world that is rich in detail, depth, and imagination, 
 
 # Research & Development
   - **Upgrade Workshops**
-  - **Innovation Hubs**
+  - **Innovation Centers**
   - **Akashic records**
  
 # Entertainment
