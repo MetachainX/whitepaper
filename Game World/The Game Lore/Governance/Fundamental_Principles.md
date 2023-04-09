@@ -1,6 +1,3 @@
-1.**The Principle of Mentalism**: This principle holds that the universe is a mental creation, and that all things are ultimately derived from the mind. It emphasizes the power of thought and the importance of cultivating a clear and focused mind.
-
-2.**The Principle of Correspondence**: This principle states that there is a correspondence between the physical world and the spiritual world, and that 
 
 1.**The Principle of Mentalism**: All is mind; the universe is mental. This principle holds that the universe and everything in it is ultimately the product of a cosmic mind or consciousness.
 
