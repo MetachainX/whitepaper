@@ -50,7 +50,7 @@ Together, we can create a world that is rich in detail, depth, and imagination, 
   - **Innovation Hubs**
   - **Akashic records**
  
-# Enterntainment
+# Entertainment
   - **Decentralized Autonomous Casinos**
   - **Metaverses**
 
