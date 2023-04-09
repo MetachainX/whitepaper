@@ -1,4 +1,4 @@
-Welcome to the world Astrotopia, a stunningly futuristic and sci-fi universe where technology has advanced beyond our wildest dreams. As you step into this world, you'll find yourself transported to a place where the impossible is now possible and the unimaginable is now a reality.
+Welcome to the world of Astrotopia, a stunningly futuristic and sci-fi universe where technology has advanced beyond our wildest dreams. As you step into this world, you'll find yourself transported to a place where the impossible is now possible and the unimaginable is now a reality.
 
 Here you'll find a plethora of experiences that are sure to leave you in awe. Imagine walking down the neon-lit streets of a bustling metropolis, surrounded by towering skyscrapers that reach into the clouds. The air is thick with the hum of hovercars as they glide effortlessly through the sky, and the scent of freshly brewed coffee wafts through the air from the numerous cafés that line the streets.
 
