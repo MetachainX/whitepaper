@@ -9,7 +9,7 @@ The space cities are also home to autonomous, secure [Banks](../Economy/World_Ba
 
 For those looking to upgrade their technology or equipment, the space cities offer state-of-the-art [Upgrade Workshops](../Research%20&%20Development/Upgrade_Workshops.md), where skilled technicians can enhance any spacecraft. These workshops feature the latest in 3D printing and nanotechnology, allowing for rapid prototyping and development of new technologies.
 
-And of course, no space city is complete without a range of [Entertainment](../Entertainment/Decentralized_Autonomous_Casinos.md) venues, offering everything from immersive virtual reality experiences to breathtaking live performances by some of the galaxy's most talented artists and performers. From giant holographic displays to massive arena-sized venues, the entertainment options in these futuristic cities are truly out of this world.
+And of course, no space city is complete without a range of [Entertainment](../Entertainment/README.md) venues, offering everything from immersive virtual reality experiences to breathtaking live performances by some of the galaxy's most talented artists and performers. From giant holographic displays to massive arena-sized venues, the entertainment options in these futuristic cities are truly out of this world.
 
 To further enhance the connectivity and efficiency of these futuristic space cities, they are [quantum entangled](../Technology/Quantum_Entanglement.md) with each other, allowing instantaneous transfer of resources and information between them. This enables residents and businesses in one city to access the resources and services of another city, without the need for lengthy and costly transport and logistics operations.
 
