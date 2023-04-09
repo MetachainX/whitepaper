@@ -24,7 +24,7 @@ If you are interested in contributing to this project, please take a moment to r
 
 The document is structured into several subcategories, each of which covers a distinct aspect of our project. These categories include **Game World**, **Organization**, **Culture**, **Milestones**, and **Mission**.
 
- - Game World section outlines the various elements that make up our virtual world, including its setting, characters, and overall gameplay mechanics. 
+ - **[Game World](https://github.com/Astrotopia/whitepaper/blob/dev/Game%20World/README.md "Game World")** section outlines the various elements that make up our virtual world, including its setting, characters, and overall gameplay mechanics. 
  
  - Organization section covers the structure and operations of our team, including our roles and responsibilities, communication strategies, and project management processes.
 
