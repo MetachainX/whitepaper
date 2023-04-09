@@ -1,3 +1,6 @@
+
+
+
 Trade centers are gigantic cities that float serenely among the stars. They are built by the most advanced civilizations in the galaxy, and are marvels of engineering and design, loaded with cutting-edge technology and breathtaking architecture. Every aspect of these cities is designed to maximize comfort and efficiency, while showcasing the incredible creativity and ingenuity of their builders.
 
 [Decentralized marketplaces](https://github.com/Astrotopia/whitepaper) offer everything from exotic alien goods to cutting-edge technology and equipment. These marketplaces are allowing traders and entrepreneurs from all corners of the galaxy to participate, while also offering advanced security features to ensure the safety of all transactions.
