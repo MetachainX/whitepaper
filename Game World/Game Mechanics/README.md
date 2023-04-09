@@ -25,4 +25,4 @@ So if you are looking to get a better understanding of how the game works and ho
 - **Progession**
 - **Trading**
 - **Resources**
-- **Reality Bridges**
+- **Reality Transurfing**
