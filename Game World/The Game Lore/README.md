@@ -54,8 +54,15 @@ Together, we can create a world that is rich in detail, depth, and imagination, 
   - **Decentralized Autonomous Casinos**
   - **Metaverses**
 
+# Events
+  - **Space Anomalies**
+  - **Grand Battles**
+  - **Quests**
+
 # Places
   - **Trade Centers**
+  - **Planets**
+  - **Asteroids**
 
 # Concepts
   - **Metaphysics**
