@@ -10,6 +10,7 @@ So if you are looking to get a better understanding of how the game works and ho
 - **Time**
 - **Interaction**
 - **Interconnectedness**
+- **World Laws**
 
 # Features
 
