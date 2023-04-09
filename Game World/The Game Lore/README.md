@@ -20,6 +20,7 @@ Together, we can create a world that is rich in detail, depth, and imagination, 
   - **The Galactic Federation**
   
 # Beings
+  - **Creator**
   - **Engineers**
   - **Travelers**
   - **Alliance Members**
@@ -39,14 +40,24 @@ Together, we can create a world that is rich in detail, depth, and imagination, 
   - **World Insurance Fund**
   - **World Bank**
 
-# Governence
+# Governance
   - **Decentralized Autonomous Organizations**
+  - **Fundamental Principles**
   - **Smart Contracts**
 
-# Locations & Hubs
+# Research & Development
+  - **Upgrade Workshops**
+  - **Innovation Hubs**
+  - **Akashic records**
+ 
+# Enterntainment
+  - **Decentralized Autonomous Casinos**
+  - **Metaverses**
+
+# Cities
   - **Trade Centers**
 
-# Mysterious Forces
+# Concepts
   - **Metaphysics**
   - **Substances**
   - **Artifacts**
