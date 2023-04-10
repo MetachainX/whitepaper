@@ -1,4 +1,4 @@
-Solidity is programming languages used to create smart contracts that are executed on Ethereum blockchain platform. A smart contract is a self-executing agreement that runs on the blockchain and executes automatically when certain conditions are met. Solidity Smart Contracts are the backbone of decentralized systems, and they enable a wide range of applications and services to be built on the blockchain.
+Solidity is a programming language used to create smart contracts that are executed on Ethereum blockchain platform. A smart contract is a self-executing agreement that runs on the blockchain and executes automatically when certain conditions are met. Solidity Smart Contracts are the backbone of decentralized systems, and they enable a wide range of applications and services to be built on the blockchain.
 
 Imagine a world where you can conduct business without the need for intermediaries, where trust is ensured through cryptographic verification, and where contracts are automatically executed when certain conditions are met. This is the world of Smart Contracts.
 
