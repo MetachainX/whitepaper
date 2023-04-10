@@ -1,3 +1,7 @@
+
+<img src="https://user-images.githubusercontent.com/36624118/230857239-1a14659e-9912-423f-954d-bd06ec38ed72.jpg" width="1080" heigh="300">
+
+
 # Introduction
 
 We are building a limitless world that is governed by the **Ethereum Blockchain** technology. This cutting-edge technology has allowed builders from all corners of the globe to come together and create a game world that is truly unique, and one that is designed to be enjoyed by all.
